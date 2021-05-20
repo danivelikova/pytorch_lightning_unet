@@ -1,0 +1,15 @@
+pytorch-lightning==1.2.10
+torch
+torchvision
+polyaxon-client
+pillow>=8.0.0
+pandas
+scikit-learn
+opencv-python
+ConfigArgParse
+torchsummary
+pycm
+six>=1.13.0
+wandb==0.10.23
+plotly
+matplotlib
